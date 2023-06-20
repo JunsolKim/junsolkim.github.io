@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Junsol Kim</title>
+    <link>https://JunsolKim.github.io/publication/</link>
+      <atom:link href="https://JunsolKim.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JunsolKim.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://JunsolKim.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>AI-Augmented Surveys: Leveraging Large Language Models for Opinion Prediction in Nationally Representative Surveys</title>
+      <link>https://JunsolKim.github.io/publication/2023_arxiv/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://JunsolKim.github.io/publication/2023_arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural and Social Correlates of Attitudinal Brokerage: Using the Complete Social Networks of Two Entire Villages</title>
+      <link>https://JunsolKim.github.io/publication/2021_proc_b/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://JunsolKim.github.io/publication/2021_proc_b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A measure of centrality in cyclic diffusion processes: Walk-betweenness</title>
+      <link>https://JunsolKim.github.io/publication/2021_plos_one/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://JunsolKim.github.io/publication/2021_plos_one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity in functional brain connectivity at rest predicts interpersonal closeness in the social network of an entire village</title>
+      <link>https://JunsolKim.github.io/publication/2021_pnas/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://JunsolKim.github.io/publication/2021_pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Associations of systemic inflammation with frontotemporal functional network connectivity and out-degree social-network size in community-dwelling older adults</title>
+      <link>https://JunsolKim.github.io/publication/2019_bbi/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://JunsolKim.github.io/publication/2019_bbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex differences in the association between social relationships and insomnia symptoms</title>
+      <link>https://JunsolKim.github.io/publication/2020_jcsm/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://JunsolKim.github.io/publication/2020_jcsm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychosocial factors affecting sleep misperception in middle-aged community-dwelling adults</title>
+      <link>https://JunsolKim.github.io/publication/2020_plos_one/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://JunsolKim.github.io/publication/2020_plos_one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social network position moderates the relationship between late-life depressive symptoms and memory differently in men and women</title>
+      <link>https://JunsolKim.github.io/publication/2019_scientific_reports/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://JunsolKim.github.io/publication/2019_scientific_reports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the Growth of Official Facebook Pages of Korean News-Media: Based on a Network Analysis Using the Population Ecology Model</title>
+      <link>https://JunsolKim.github.io/publication/2017_new_physics/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://JunsolKim.github.io/publication/2017_new_physics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
